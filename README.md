@@ -1,8 +1,7 @@
 # Automatic genre recognition
 
-This work is about automatic genre recognition.
 
-We propose several models classifying songs into 8 genres: pop, rock, r&b, hip-hop, country, folk, blues, and jazz.
+In this work we propose several models classifying songs into 8 genres: pop, rock, r&b, hip-hop, country, folk, blues, and jazz.
 
 We used a bi-directional LSTM network, BERT, a model trained on audio features from Spotify, and an ensemble of neural networks including it and LSTM.
 
